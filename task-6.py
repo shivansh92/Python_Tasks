@@ -49,7 +49,7 @@ while count<4:
 		count+=1
 
 # Q-5
-text_object = open('read.txt','r')
+text_object = open('/Users/shivanshmehta/Desktop/pythonTasks/Python_Tasks/read/read.txt','r')
 lines = text_object.readlines()
 
 for line in lines:
